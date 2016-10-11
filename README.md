@@ -1,12 +1,12 @@
-# _{My Cat}_
+# _My Cat_
 
-#### _{Displays information about my cat}, {10.10.16}_
+#### _Displays information about my cat, 10.10.16_
 
-#### By _**{Jacob Hixon, Skye Atwood}**_
+#### By _**Jacob Hixon, Skye Atwood**_
 
 ## Description
 
-_{A single-page static website that provides general information about Skye's cat Chihero. It is very basic and serves almost no purpose, except to be used as an example of a basic html page.}_
+_A single-page static website that provides general information about Skye's cat Chihero. It is very basic and serves almost no purpose, except to be used as an example of a basic html page._
 
 ## Setup/Installation Requirements
 
@@ -14,22 +14,22 @@ _{A single-page static website that provides general information about Skye's ca
 * _Open folder titled "my-cat"_
 * _Double-click "my-cat.html"_
 
-_{This is a static webpage and all files needed for it to run are included in the "my-cat" folder.}_
+_This is a static webpage and all files needed for it to run are included in the "my-cat" folder._
 
 ## Known Bugs
 
-_{No known bugs; this webpage is on fleek.}_
+_No known bugs; this webpage is on fleek._
 
 ## Support and contact details
 
-_{If the application fails to load, you are probably doing something wrong.}_
+_If the application fails to load, you are probably doing something wrong._
 
 ## Technologies Used
 
-_{HTML}_
+_HTML_
 
 ### License
 
-*{GPL}*
+*GPL*
 
-Copyright (c) 2016 **_{Jacob Hixon, Skye Atwood}_**
+Copyright (c) 2016 **_Jacob Hixon, Skye Atwood_**
